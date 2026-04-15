@@ -74,5 +74,6 @@ class LogisticRegression:
 model = LogisticRegression('TenYearCHD', df)
 
 model.train()
+# loss = 0.38.....
 
 
